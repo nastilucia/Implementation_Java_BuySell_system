@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 import oggetti.AnnuncioRialzo;
 import oggetti.Annuncio;
+//Prova TestAnnuncioAlrialzo
 public class TestAnnuncioAlrialzo {
 	public static void main(String [] args){
 		Scanner input= new Scanner (System.in);
