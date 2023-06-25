@@ -1,4 +1,6 @@
+//packages
 package testAnn;
+
 import java.util.Scanner; 
 
 import oggetti.AnnuncioRialzo;
